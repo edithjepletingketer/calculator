@@ -30,7 +30,9 @@ def percentage(a,b):
 	answer=(a/b)*100
     return answer
 	
-
+def percentage(b,c):
+	answer=(a/b)*100
+	return answer
 
 
      
